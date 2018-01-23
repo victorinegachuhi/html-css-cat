@@ -1,0 +1,84 @@
+.links li{
+	list-style:none;
+	text-decoration: none;
+	padding:1em;
+	float:center;
+	display: inline-block;
+	text-decoration-style: bold;
+}
+
+.nav {
+	padding:2em;
+	
+}
+
+.find {
+	padding-left:2em;
+	float:right;
+	font-weight: bold;
+	font-size: 16;
+
+}
+.creative {
+	text-align: left;
+	float: left;
+	width: 300px;
+	height:300px;
+	margin-right: 3em;
+	margin-left: 3em;
+
+}
+.Urban {
+	text-align: left;
+	float: left;
+	width: 300px;
+	height:300px;
+	margin-right: 3em;
+	margin-left: 3em;
+}
+.Eden {
+	text-align: left;
+	float: left;
+	width: 300px;
+	height:300px;
+	margin-right: 3em;
+	margin-left: 3em;
+	margin-right:100px;
+}
+span {
+	color: dodgerblue;
+}
+
+body {
+	margin: auto;
+	border-image: center;
+
+}
+.image {
+	margin-left:0;
+}
+
+#Creative {
+	color: yellow;
+}
+
+#Urban {
+	color: blue;
+}
+#Worship {
+	color: green;
+}
+.footer{
+
+} 
+
+
+
+
+
+
+
+
+
+
+
